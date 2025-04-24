@@ -1,7 +1,6 @@
 streamlit
-streamlit-pandas-profiling
 pandas
-ydata-profiling
-pycaret
+numpy
 scikit-learn
-pydantic-settings
+pycaret
+tensorflow
